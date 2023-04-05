@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: #f15db4;
+    align-items: center; 
+  }
+
+nav{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8%;
+    padding-left: 8%;
+    background-color:hsl(0, 64%, 85%);
+}
+.logo
+{
+    color: rgb(0, 0, 0) ;
+    font-size: 25px;
+} 
